@@ -1,0 +1,40 @@
+# .NET Core
+## Build results
+[Dd]ebug/
+[Rr]elease/
+**/bin/
+**/obj/
+
+## Visual Studio Code
+.vscode/
+
+## Visual Studio
+*.userprefs
+*.suo
+*.csproj.user
+
+## Build tooling
+msbuild.log
+msbuild.err
+msbuild.wrn
+msbuild.projdata
+*.user
+
+## Test Results
+[Test]Results/
+
+## NuGet
+*.nuget.props
+*.nuget.targets
+NuGet.Config
+NuGet.exe
+**/packages/
+*.nupkg
+debug/*.pdb
+
+# Others
+Thumbs.db
+Desktop.ini
+*.DS_Store
+
+# End of File
